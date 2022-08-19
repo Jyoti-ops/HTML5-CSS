@@ -1,0 +1,5 @@
+@import url(main.css); 
+/* 1st line will show to execute first main.css then execute style of style.css */
+h1{
+    color: blue;
+}
